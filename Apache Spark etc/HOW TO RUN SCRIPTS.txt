@@ -1,0 +1,29 @@
+	Download all files individually to /home/training/
+	on local filesystem
+	and run 
+. /home/training/runallscripts.sh
+
+
+if it does not work try...
+
+	1. Download all the files in the
+	zip to /home/training/ on local filesystem
+	and run 0_unzip_gz.sh using 
+
+. /home/training/0_unzip_gz.sh
+
+	2. Data loading and cleaning 
+. /home/training/alpha/mysql/mysql.sh
+
+	3. Impala answers and Data visualization 
+. /home/training/alpha/impala/run_1.sh
+
+	4. Hive answers 
+. /home/training/alpha/hive/run_2.sh
+
+	5. Pyspark answers 
+. /home/training/alpha/pyspark/sparkprogram.sh
+
+	6. Scala has to be solved individually as I could
+	not successfully spark submit after 'build success'
+
