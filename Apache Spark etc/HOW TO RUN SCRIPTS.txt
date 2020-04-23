@@ -24,6 +24,5 @@ if it does not work try...
 	5. Pyspark answers 
 . /home/training/alpha/pyspark/sparkprogram.sh
 
-	6. Scala has to be solved individually as I could
-	not successfully spark submit after 'build success'
+	6. Scala has to be solved individually 
 
