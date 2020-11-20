@@ -1,0 +1,1 @@
+Code to Perform big data analysis using Py-Spark, Scala, Hive, Impala and mySQL in Hadoop to monitor activity during football matches using tweets
